@@ -1,0 +1,115 @@
+
+body{
+  background-image: url("ayoub.jpg");
+  background-size:auto;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+
+}
+a {
+  color:#d63031;
+  font-family: monospace;
+  font-size: 20px;
+}
+#nigga{
+  font-size: 40px;
+  color: #2d3436;
+  font-family: fantasy;
+}
+#div{
+  background-image: url("header-turquoise.jpg");
+}
+#myPhoto{
+  vertical-align: text-top;
+}
+#navbar{
+  text-align: center;
+  padding: 10px;
+}
+/* Style all font awesome icons */
+.fa {
+  padding: 40px;
+  font-size: 40px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+  border-radius:45%;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Youtube */
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+h1{
+
+  font-style: italic;
+  font-family: monospace;
+  font-size: 40px;
+  text-align: center;
+  color:#2C3A47;
+}
+h2{
+ text-align: center;
+ font-size:20px;
+ font-family: inherit;
+ font-style: oblique;
+ color: #3B3B98;
+}
+.para{
+  padding: 20px;
+  font-family: sans-serif;
+  font-style: normal;
+  text-align: justify;
+  background-color: #b2bec3;
+  border-radius:25%;
+
+}
+.social-media img {
+    transition: 1s ease;
+    padding: 0px;
+    margin: 15px;
+    }
+#section1{
+
+  font-size: 20px;
+
+  padding: 20px;
+
+}
+
+#section3{
+text-align: center;
+padding: 40px;
+}
+.skills-progress{
+  text-align: center;
+  padding-left:200px;
+  padding-right:200px;
+
+
+}
+.progress.is-link {
+  -webkit-appearance: none;
+    border: none;
+    border-radius: 290486px;
+    display: block;
+    height: 1rem;
+    overflow: hidden;
+    padding: 0;
+    width: 100%;
+
+}
